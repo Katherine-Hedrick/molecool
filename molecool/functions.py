@@ -5,7 +5,7 @@ def canvas(with_attribution=True):
     """
     Placeholder function to show example docstring (NumPy format).
 
-    Replace this function and doc string for your own project.
+    Replace this function and doc string with your own.
 
     Parameters
     ----------
