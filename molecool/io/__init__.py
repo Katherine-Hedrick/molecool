@@ -1,0 +1,1 @@
+from molecool.io.pdb import open_pdb
