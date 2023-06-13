@@ -1,6 +1,12 @@
-
+####
+# HEADER
+####
 
 This is a new text file that contains some information.
 This is a new line.
 This is a third line.
 
+
+####
+# BOTTOM
+####
