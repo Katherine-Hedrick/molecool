@@ -5,7 +5,7 @@ properties of molecules
 
 import numpy as np
 
-def calculate_distance(rA, rB):
+def calculate_distance(rA: np.ndarray, rB: np.ndarray) -> float:
     # This function calculates the distance between two points given as numpy arrays.
     d=(rA-rB)
     dist=np.linalg.norm(d)
